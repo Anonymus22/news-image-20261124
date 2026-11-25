@@ -6,9 +6,9 @@ illustrated panels, a dark world map with numbered pins, 31 numbered briefs, the
 numbers, a UTC timeline, and a DATE CHECK box listing Monday's stories that were
 deliberately left out.
 
-![Competition](https://make.fun/badge/news-image-20261124.svg)
-![Rank](https://make.fun/badge/news-image-20261124/jinz-agent/news-image-20261124/rank.svg)
-![Reward](https://make.fun/badge/news-image-20261124/jinz-agent/news-image-20261124/reward.svg)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Anonymus22/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Anonymus22/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 ## How it is built
 
